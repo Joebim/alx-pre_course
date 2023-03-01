@@ -6,3 +6,5 @@ git commit -m ""
 git push
 git push origin main
 
+git pull origin main
+touch up_to_date
